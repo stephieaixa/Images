@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!-- Content placeholder for the main body of the email -->
+    {{content}}
+    <br>
+    
+    <p style="font-size: 0.9em;">Cardino Team</p>
+    <br>
+    <p style="font-size: 0.9em;">
+        Cardino - Elektroauto einfach online verkaufen |
+        <strong>tel:</strong> <a href="tel:+4915735987109" style="text-decoration: none; color: black;">+49 1573 5987109</a> |
+        <strong>mail:</strong> <a href="mailto:sales@cardino.de" style="text-decoration: none; color: black;">sales@cardino.de or support@cardino.de</a> |
+        <strong>web:</strong> <a href="http://cardino.de" style="text-decoration: none; color: black;">cardino.de</a>
+    </p>
+    <br>
+    <p style="font-size: 0.9em;">
+        Cardino GmbH, c/o ImpactHub Berlin | Rollbergstraße 28A | 12053 Berlin | Deutschland<br>
+        Vertreten durch: Henrik Sachs und Lukasz Pajak<br>
+        Eintragung im Registergericht: Berlin-Charlottenburg | HRB 251256 B | Ust-ID: DE359940062
+    </p>
+    <br>
+    <p style="font-size: 0.9em;">
+        <strong>CONFIDENTIALITY NOTICE:</strong> This message (including any attachments) is confidential and may be privileged. It may be read, copied and used only by the intended recipient. If you have received it in error please contact the sender (by return e-mail) immediately and delete this message. Any unauthorized use or dissemination of this message in whole or in parts is strictly prohibited.
+    </p>
+</body>
+</html>
